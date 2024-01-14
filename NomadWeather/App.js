@@ -6,7 +6,7 @@ import Ionicons from '@expo/vector-icons/Ionicons';
 
 const { width: SCREEN_WIDTH } = Dimensions.get('window');
 
-const API_KEY = '2834387742b25d5393a21e88fee8246a';
+const API_KEY = 'API키 넣는 곳';
 
 const icons = {};
 
